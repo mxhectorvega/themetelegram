@@ -442,9 +442,9 @@ notificationBg: COLOR_DARK;                    // Notification background
 sideBarBg: COLOR_DARK; // filters side bar background
 sideBarBgActive: COLOR_DARK; // filters side bar active background
 sideBarBgRipple: COLOR_DARK; // filters side bar ripple effect
-sideBarTextFg: COLOR_WHITE; // filters side bar text
-sideBarTextFgActive: COLOR_CYAN_RIPPLE_ACTIVE; // filters side bar active item text
-sideBarIconFg: COLOR_WHITE; // filters side bar icon
-sideBarIconFgActive: COLOR_CYAN_RIPPLE_ACTIVE; // filters side bar active item icon
-sideBarBadgeBg: COLOR_CYAN_RIPPLE_ACTIVE; // filters side bar badge background
-sideBarBadgeBgMuted: COLOR_WHITE; // filters side bar unimportant badge background
+sideBarTextFg: COLOR_GRAY; // filters side bar text
+sideBarTextFgActive: COLOR_BLUE_LIGHT; // filters side bar active item text
+sideBarIconFg: COLOR_GRAY; // filters side bar icon
+sideBarIconFgActive: COLOR_BLUE_LIGHT; // filters side bar active item icon
+sideBarBadgeBg: COLOR_BLUE_LIGHT; // filters side bar badge background
+sideBarBadgeBgMuted: COLOR_BLUE_LIGHT; // filters side bar unimportant badge background
